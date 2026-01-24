@@ -1,0 +1,27 @@
+# -------------------------
+# MCUXpresso / i.MX RT1040
+# -------------------------
+
+# IDE/project settings
+**/.settings/
+**/Debug/
+**/Release/
+
+# Build artifacts
+**/*.elf
+**/*.bin
+**/*.hex
+**/*.axf
+**/*.o
+**/*.map
+**/*.d
+
+# Temporary files
+**/*.log
+**/*.tmp
+**/*.swp
+**/*.dep
+
+# User-specific / OS files
+*.DS_Store
+Thumbs.db
